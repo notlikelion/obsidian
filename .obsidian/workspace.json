@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "ad8078de4444f0b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b80f8433f7f4e37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7f3b4fdd03ba57f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_onboarding/02_git+github/Obsidian_및_Git_연동.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian_및_Git_연동"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "acce3d1370cf1800",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ad6f4114324f840",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfc3dfe06acdde38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "eab1c2c4498c8359",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#setup",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "5ad5ba35324ad416",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "132b7912ebf0ce20",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a7a6c6fda0548c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7aeb037dd056ae9c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "환영합니다!.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "환영합니다! 의 백링크"
+            }
+          },
+          {
+            "id": "ca1a149a03ea2187",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "환영합니다!.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "환영합니다! 의 나가는 링크"
+            }
+          },
+          {
+            "id": "b756bbb9aa1a5b84",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "0af1a4b0b4d22e37",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "환영합니다!.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "환영합니다! 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "f7f3b4fdd03ba57f",
+  "lastOpenFiles": [
+    "01_onboarding/02_git+github/GitHub_프로필_및_마크다운.md",
+    "01_onboarding/02_git+github/Git_원격_저장소.md",
+    "01_onboarding/02_git+github/Git_설치_및_설정.md",
+    "01_onboarding/02_git+github/Obsidian_및_Git_연동.md",
+    "01_onboarding/01_ai+and+references/_AI+학습법.md",
+    "01_onboarding/02_git+github/_Git+GitHub.md",
+    "01_onboarding/02_git+github/00_목차.md",
+    "01_onboarding/02_git+github/Git_명령어_참조.md",
+    "01_onboarding/02_git+github/로컬_저장소.md",
+    "01_onboarding/02_git_github/notes/Command_Reference.md",
+    "01_onboarding/02_git_github/notes/05_Obsidian_and_Git.md",
+    "01_onboarding/02_git_github/notes/04_GitHub_and_Markdown.md",
+    "01_onboarding/02_git_github/notes/03_Git_Remote_Repository.md",
+    "01_onboarding/02_git_github/notes/02_Git_Local_Repository.md",
+    "01_onboarding/02_git_github/notes/01_Git_Setup.md",
+    "01_onboarding/02_git_github/notes/00_Git_and_GitHub_Index.md",
+    "01_onboarding/02_git_github/notes",
+    "01_onboarding/02_git_github",
+    "01_onboarding/02_notes/00_인덱스.md",
+    "01_onboarding/02_notes/Useful_Links.md",
+    "01_onboarding/02_notes/Learning_Resources.md",
+    "01_onboarding/02_notes/Development_Tools.md",
+    "01_onboarding/02_notes/AI_Tools.md",
+    "01_onboarding/02_notes/Cloud_Engineering_Roadmap.md",
+    "01_onboarding/02_notes/00_INDEX.md",
+    "01_onboarding/02_notes",
+    "Learning Resources.md",
+    "00_INDEX.md",
+    "01_onboarding/02_git+github/Command_Reference.md",
+    "01_onboarding/02_git+github",
+    "01_onboarding/01_ai+and+references",
+    "무제"
+  ]
+}
