@@ -11,10 +11,14 @@
             "id": "f7f3b4fdd03ba57f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "02_java+basic/02_flow+control/Exercise+025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exercise+025"
             }
           }
         ]
@@ -166,8 +170,9 @@
   },
   "active": "f7f3b4fdd03ba57f",
   "lastOpenFiles": [
-    "02_java+basic/02_flow+control/Exercise+025.md",
     "02_java+basic/02_flow+control/Exercise+02.md",
+    "02_java+basic/01_syntax/Exercise+01.md",
+    "02_java+basic/02_flow+control/Exercise+025.md",
     "02_java+basic/02_flow+control/Exercise+02 copy.md",
     "02_java+basic/02_flow+control/raw.md",
     "02_java+basic/02_flow+control/03_배열.md",
@@ -175,7 +180,6 @@
     "02_java+basic/02_flow+control/01_조건문.md",
     "02_java+basic/01_syntax/STEP01.md",
     "02_java+basic/01_syntax/Syntax/04_변수_데이터타입_리터럴.md",
-    "02_java+basic/01_syntax/Exercise+01.md",
     "02_java+basic/01_syntax/Syntax/00_프로그램_기본_구조.md",
     "02_java+basic/01_intelliJ/03_부가기능/01_AI_보조_Gemini.md",
     "02_java+basic/01_intelliJ/03_부가기능/00_추천_플러그인.md",
