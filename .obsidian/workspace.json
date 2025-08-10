@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_java+advanced/02_동시성/00_개요_및_비유.md",
+                "file": "02_java+basic/03_oop/01_클래스, 객체, 메서드.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00_개요_및_비유"
+              "title": "01_클래스, 객체, 메서드"
             }
           }
         ]
@@ -170,8 +170,17 @@
   },
   "active": "814f1e6535dddf80",
   "lastOpenFiles": [
-    "02_java+basic/03_oop/01_클래스, 객체, 메서드.md",
+    "03_java+advanced/03_Java17/raw.md",
+    "03_java+advanced/03_Java17/Exercise+075.md",
+    "03_java+advanced/03_Java17/Exercise+07 copy.md",
+    "03_java+advanced/03_Java17/Exercise+07.md",
+    "03_java+advanced/03_Java17/00_개요_및_LTS.md",
+    "03_java+advanced/03_Java17/04_Gemini_API_예제.md",
+    "03_java+advanced/03_Java17/03_HTTP_Client.md",
+    "03_java+advanced/03_Java17/02_Text_Blocks.md",
+    "03_java+advanced/03_Java17/01_Record.md",
     "03_java+advanced/02_동시성/00_개요_및_비유.md",
+    "02_java+basic/03_oop/01_클래스, 객체, 메서드.md",
     "03_java+advanced/02_동시성/05_동기화_분산락_Redis.md",
     "03_java+advanced/02_동시성/04_Parallel_Stream.md",
     "03_java+advanced/02_동시성/03_CompletableFuture.md",
@@ -187,18 +196,9 @@
     "03_java+advanced/01_함수형+프로그래밍/01_람다와_메서드_참조.md",
     "03_java+advanced/01_함수형+프로그래밍/00_개요_및_참고.md",
     "03_java+advanced/01_함수형+프로그래밍/Exercise+05.md",
-    "03_java+advanced/01_함수형+프로그래밍/02_Lambda.md",
-    "03_java+advanced/01_함수형+프로그래밍/01_Stream.md",
-    "03_java+advanced/01_함수형+프로그래밍/01_스트림.md",
-    "03_java+advanced/01_함수형+프로그래밍/01_리스트.md",
-    "03_java+advanced/01_함수형+프로그래밍/01_list.md",
-    "02_java+basic/03_oop/Exercise+04.md",
-    "02_java+basic/03_oop/02_접근_제어자.md",
-    "02_java+basic/03_oop/01_개요_클래스_객체.md",
-    "02_java+basic/03_oop/02_상속, 인터페이스.md",
     "03_java+advanced/05_Servlet+JSP",
     "03_java+advanced/04_의존성",
-    "03_java+advanced/03_Java+17",
+    "03_java+advanced/03_Java17",
     "03_java+advanced/02_동시성",
     "03_java+advanced/01_함수형+프로그래밍",
     "03_java+advanced",
